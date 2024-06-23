@@ -9,3 +9,9 @@
       margin: 0 auto;
       padding: 10px 40px;
 }
+.showMenu{
+      display: none;
+}
+.closeMenu{
+      display: block;
+}

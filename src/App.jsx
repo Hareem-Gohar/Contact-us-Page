@@ -10,8 +10,10 @@ function App() {
   return (
     <>
       <Navigation />
-      <ContactHeader />
-      <ContactForm />
+      <main>
+        <ContactHeader />
+        <ContactForm />
+      </main>
     </>
   )
 }
