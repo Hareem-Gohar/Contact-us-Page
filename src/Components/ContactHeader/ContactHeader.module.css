@@ -1,0 +1,14 @@
+.contactUs{
+      margin: 20px auto;
+}
+.contactUs h1{
+      font-size: 48px;
+      font-weight: 800;
+      text-transform: uppercase;
+      line-height: 72px;
+}
+.contactUs p{
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+}

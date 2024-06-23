@@ -1,0 +1,27 @@
+.btn{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap:10px;
+      border-radius: 5px;
+      background-color: black;
+      color: #fff;
+      padding: 15px 20px;
+      min-width: 200px;
+}
+.outlineBtn{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap:10px;
+      border-radius: 5px;
+      border:1px solid black;
+      color: #000000;
+      padding: 15px 20px;
+      min-width: 100%;
+}
+@media (max-width:1024px) {
+      .btn{
+            width: 100%;
+      }
+}
