@@ -14,9 +14,6 @@ const Navigation = () => {
                         <a href="#">Home</a>
                   </li>
                   <li>
-                        <a href="#">About Us</a>
-                  </li>
-                  <li>
                         <a href="#">Login</a>
                   </li>
                   <li>
